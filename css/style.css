@@ -10,7 +10,7 @@ body::before {
   content: ''; /*it adds a ghost element with nothing there to push it down a bit */
   height: 60px;
 }
-
+ 
 .mission {
   width: 100%
 }
